@@ -1,4 +1,4 @@
-Hi there, I'm Mohammed Ahmed but feel free to call me Mo 😀.
+Hi there, I'm Mohammed but feel free to call me Mo 😀.
 
 I'm a passionate hands-on software engineer interested in way too many things. My two favorite parts of building software are; the feeling of creativity when bringing imagination to life through code, and the iterative improvements/optimizations that can be made along the way.
 
