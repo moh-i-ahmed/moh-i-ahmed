@@ -1,6 +1,7 @@
 Hi there, I'm Mohammed but feel free to call me Mo 😀.
 
-I'm a passionate hands-on software engineer interested in way too many things. My two favorite parts of building software are; the feeling of creativity when bringing imagination to life through code, and the iterative improvements/optimizations that can be made along the way.
+I'm a passionate and hands-on software engineer interested in way too many things but automation and backend dev are at the top of the list.
+My two favorite parts of building software are; the feeling of creativity when bringing imagination to life through code, and the iterative improvements/optimizations that can be made along the way.
 
 **Languages:**
 <code><img height="20" alt="Python"     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
