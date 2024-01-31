@@ -1,6 +1,6 @@
 Hi there, I'm Mohammed but feel free to call me Mo 😀.
 
-I'm a passionate and hands-on software engineer interested in way too many things but automation and backend dev are at the top of the list.
+I'm a hands-on software engineer who's super into backend development, automation, and honestly way too many other things.
 My two favorite parts of building software are; the feeling of creativity when bringing imagination to life through code, and the iterative improvements/optimizations that can be made along the way.
 
 **Languages:**
