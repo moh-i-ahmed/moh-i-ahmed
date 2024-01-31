@@ -1,6 +1,6 @@
 Hi there, I'm Mohammed but feel free to call me Mo 😀.
 
-I'm a software engineer who's enjoys backend development, and is super into all kinds of automation.
+I'm a software engineer who enjoys backend development, and is super into all kinds of automation.
 My two favorite parts of building software are; the feeling of creativity when bringing imagination to life through code, and the iterative improvements/optimizations that can be made along the way.
 
 **Languages:**
